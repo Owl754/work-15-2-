@@ -1,0 +1,20 @@
+footer{
+    border: radius 96px;;
+    border: width 35px;;
+    border-color: rgb(3, 103, 197);
+    border-style: solid;
+}
+
+footer2{
+    padding-left: 25px;
+}
+html {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidPndz8KnouYakAQd01MB-N0E-lf6XgUeOg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
